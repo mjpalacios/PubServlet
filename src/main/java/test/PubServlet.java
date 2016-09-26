@@ -23,7 +23,7 @@ public class PubServlet extends HttpServlet {
    /**
     * @see HttpServlet#HttpServlet()
     */
-   public SrcServlet() {
+   public PubServlet() {
       super();
    }
 
